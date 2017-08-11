@@ -1,3 +1,4 @@
+// A utility program to send HTTP POST and GET requests.
 package main
 
 import (
